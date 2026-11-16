@@ -1,0 +1,6 @@
+{
+  "name": "CinematiCuts Barbershop",
+  "description": "Professional cinematic barbershop in Hialeah, FL offering precision cuts, hot towel shaves, and grooming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
